@@ -8076,6 +8076,12 @@ button.default__button {
     color: var(--whiteColor);
 }
 
+@media (min-width: 1024px) and (max-width: 2560px) {
+    .breadcrumbarea {
+               padding: 220px 0;
+
+    }
+}
 /*------------------------------
 Grid Area
 -------------------------------*/
